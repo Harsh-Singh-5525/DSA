@@ -1,4 +1,5 @@
-// Write recursive function that takes an array of words and returns an array containing all words capitalized i/p : ["foo", "bar", "world"] o/p : ["FOO", "BAR", "WORLD"] 
+/* Write recursive function that takes an array of words and returns an array containing all words capitalized
+i/p : ["foo", "bar", "world"] o/p : ["FOO", "BAR", "WORLD"] */
 import java.util.Arrays;
 public class WordsCapatilization {
   static String [] wordsCapatilised(String inputArr [] , int index){ if(index < 0){         
