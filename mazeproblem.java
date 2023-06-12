@@ -1,4 +1,3 @@
-package JAVA_DSA.recursion.branching;
 import java.util.*;
 public class mazeproblem {
 
