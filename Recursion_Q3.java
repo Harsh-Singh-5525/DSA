@@ -1,5 +1,5 @@
 //Find the Highest Element in an Array  
-public class HighestElement 
+public class  Recursion_Q3 
 {
   static int highestElement(int arr[] , int index){ 
     if(index == 0){   
