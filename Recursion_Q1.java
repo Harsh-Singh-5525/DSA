@@ -1,7 +1,7 @@
 //Write a recursive function that takes a list of numbers as an input and return product of all numbers in list 
 
-CODE: 
-public class Product { 
+
+public class Recursion_Q1 { 
  
     static int productNums(int Arr [] , int index){      
      if(index < 0){       
