@@ -1,7 +1,7 @@
 /*Given is an Array of Employee Salary, add the tax 10% in each salary and return the new array which contains (salary + tax).*/
-CODE: 
+
 import java.util.Arrays;
-public class Taxation {         
+public class  Recursion_Q4 {         
   static double [] taxation(int inputArr [] , int index){ if(index < 0){
   return new double [inputArr.length]; 
   } 
